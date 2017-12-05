@@ -1,0 +1,120 @@
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\csc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Collections.Immutable.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Reflection.Metadata.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\vbc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe.config
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll.config
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.pdb
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.csprojResolveAssemblyReference.cache
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.pdb
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\csc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\System.Collections.Immutable.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\System.Reflection.Metadata.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\vbc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe.config
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll.config
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\OnlineStore-TeamC.pdb
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.csprojResolveAssemblyReference.cache
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V2\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.pdb
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.csprojResolveAssemblyReference.cache
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\csc.exe
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\vbc.exe
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll.config
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.pdb
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.dll
+C:\Users\work\Desktop\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.pdb
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\csc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\System.Collections.Immutable.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\System.Reflection.Metadata.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\vbc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe.config
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll.config
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\OnlineStore-TeamC.pdb
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.csprojResolveAssemblyReference.cache
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-TeamWork - Copy\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.pdb
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\csc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Collections.Immutable.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Reflection.Metadata.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\vbc.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe.config
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll.config
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.pdb
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.csprojResolveAssemblyReference.cache
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.dll
+D:\ETC410\Worksapce\OnlineStore-TeamC-V3\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.pdb
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\csc.exe
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\vbc.exe
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll.config
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\OnlineStore-TeamC.pdb
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.csprojResolveAssemblyReference.cache
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.dll
+C:\Users\work\Downloads\ECT410-final-masterSun\ECT410-final-master\OnlineStore-TeamC\OnlineStore-TeamC\obj\Debug\OnlineStore-TeamC.pdb

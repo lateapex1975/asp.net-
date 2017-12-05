@@ -1,0 +1,13 @@
+﻿
+#imageBook {
+	width: 320px;
+	margin:0 auto;
+}
+
+#bookDescription {
+	text-align: justify;
+}
+
+a:hover {
+      color: black;
+    }

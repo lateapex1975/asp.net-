@@ -1,0 +1,92 @@
+﻿body {
+	padding: 50px 0 0 0; 
+ 
+	color: #413f3b;
+}
+
+
+
+/*nav #navbar ul {
+	margin-left: 200px;
+}
+*/
+a {
+	color: #b5c1ad;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fff;
+	cursor: pointer;
+}
+
+#wrapper {
+	min-height: 550px;
+}
+
+.row-content {
+	margin-top:20px;
+	margin-bottom: 50px;
+}
+
+.row-footer {
+	margin: 0 auto;
+}
+
+
+#logoutBtn {
+	position: fixed;
+	margin: 0 auto;
+	top:60px;
+	left:10px;
+}
+
+#logoutBtn .btn_logout {
+	width: 73px;
+	height: 30px;
+	text-align: center;
+  font-size:16px;
+  color:brown;
+  background-color:blanchedalmond;
+  cursor:pointer;	
+}
+
+.Button {
+	width: 73px;
+	height: 30px;
+	text-align: center;
+  font-size:16px;
+  color:brown;
+  background-color:blanchedalmond;
+  cursor:pointer;		
+}
+
+
+
+.navbar-inverse {
+	background: #413f3b;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+	color: #fff;
+	background: DarkGreay;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+	color: #fff;
+	background: #413f3b;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+	background-color: #413f3b;
+	color: #eee;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > li {
+	color: #000;
+}

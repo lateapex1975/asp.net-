@@ -1,0 +1,15 @@
+    h3{
+      margin-left:42px;
+      text-align: justify;
+    }
+
+    #expandedProductList li {
+      margin-top: 15px;
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+    a:hover {
+      color: black;
+    }

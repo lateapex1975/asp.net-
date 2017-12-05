@@ -1,0 +1,35 @@
+﻿    .message {
+      width:50%;
+      margin-top:30px;
+      font-size:18px;
+      text-align: justify;
+    }
+
+    table {
+      width:100%;
+      color:#fff;
+      margin-top: 30px;
+    }
+
+    .center {
+			padding-left: 60px;
+			font-style: italic;
+    }
+
+    .row-content {
+      text-align: center;
+      font-size: 20px;
+    }
+
+
+
+    .button {
+      width:85px;
+      height: 28px;
+      font-size:18px;
+      margin-top: 20px;
+/*      margin-left:300px;*/
+      color:brown;
+      background-color:blanchedalmond;
+      cursor:pointer;
+    }

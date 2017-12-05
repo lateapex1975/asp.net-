@@ -1,0 +1,32 @@
+﻿  .LoginPanel {
+    width:800px;
+    font-size: 16px;
+    line-height: 10px;
+    margin-left:250px;
+    margin-top:100px;
+    margin-bottom:100px;
+  }
+
+  .InfoPanel {
+    width:800px;
+    font-size: 20px;
+    text-align: center;
+    margin-left:30px;
+    margin-top:100px;
+  }
+
+  .logBtn {
+      width:80px;
+      height: 25px;
+      font-size:20px;
+      margin-top:10px;
+      margin-bottom:10px;
+      color:brown;
+      background-color:blanchedalmond;
+      cursor:pointer;
+  }
+
+  .btn_logout {
+    margin: 20px auto;
+  }
+
